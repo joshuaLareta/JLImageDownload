@@ -53,7 +53,7 @@ Usage
 
 6) The callback function will be called after the download finishes
 
-<b>Image download using block</b>
+<b>Image download using a block</b>
 * It is useful in downloading image inside a loop (tableview). It uses GCD to download the images and calls the completion when its done.
 
 <b>Steps:</b>
