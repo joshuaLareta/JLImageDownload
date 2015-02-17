@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
     }
     s.source            = {
         :git => 'https://github.com/joshuaLareta/JLImageDownload.git',
-        :tag => s.version.to_s
+        :tag => '1.0'
     }
     s.source_files      = 'Example/Example/Class/*.{m,h}'
     s.requires_arc      = true
